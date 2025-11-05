@@ -1,7 +1,7 @@
 <div align="center">
     
 # 👋 Chamindu Irosh
-### Cloud | Linux | DevOps Enthusiast & Aspiring Engineer
+### Cloud | Linux | DevOps Enthusiast 
 
 [![Status Badge](https://img.shields.io/badge/Status-Actively%20Learning-339933?style=flat-square)](https://github.com/ChaminduIrosh)
 [![Goal Badge](https://img.shields.io/badge/Goal-Seeking%20Entry%20Role-0077B5?style=flat-square)]()
