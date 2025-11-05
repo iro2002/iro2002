@@ -70,13 +70,13 @@
 
 ### 🏆 Certifications
 
-| Certification | Provider | Credential ID | |
-|----------------|-----------|----------------|--|
+| Certification | Provider | 
+|----------------|-----------|
 | **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | 
 | **AWS Cloud Practitioner Essentials (CLF-C01)** | Amazon Web Services | 
 | **Introduction to Linux (LFS101)** | Linux Foundation | 
 | **Introduction to Jenkins (LFS167)** | Linux Foundation | 
-| **Networking Basics (NET101)** | Cisco | NET101-567890 | 
+| **Networking Basics (NET101)** | Cisco | 
 
 ---
 
