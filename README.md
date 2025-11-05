@@ -76,19 +76,6 @@ These certifications validate my fundamental understanding of core concepts:
 
 </div>
 
----
-
-<div align="center">
-    
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ChaminduIrosh)
-[![CV Download](https://img.shields.io/badge/Download-CV-2C3E50?style=for-the-badge&logo=googledrive)](https://yourcvdownloadlink.com) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-</div>
-
-***
 
 <p align="center">
   <i>“Automate the process, simplify the workflow, and scale with confidence.”</i>
