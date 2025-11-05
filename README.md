@@ -1,28 +1,28 @@
 <div align="center">
     
 # 👋 Chamindu Irosh
-### Cloud | Linux | DevOps Engineer (Enthusiast)
+### Cloud | Linux | DevOps Enthusiast & Aspiring Engineer
 
 [![Status Badge](https://img.shields.io/badge/Status-Actively%20Learning-339933?style=flat-square)](https://github.com/ChaminduIrosh)
-[![Goal Badge](https://img.shields.io/badge/Goal-DevOps%20Expert-0077B5?style=flat-square)]()
+[![Goal Badge](https://img.shields.io/badge/Goal-Seeking%20Entry%20Role-0077B5?style=flat-square)]()
 
 </div>
 
 ---
 
-## 🚀 Professional Focus & Education
+## 🚀 Learning Journey & Focus
 
-I am a highly motivated technology enthusiast dedicated to **DevOps principles** and **Cloud Infrastructure**. My focus is on automating workflows, securing systems, and building reliable infrastructure.
+I am a highly motivated student dedicated to mastering **DevOps** and **Cloud Infrastructure**. My focus is on building hands-on experience in automation, system administration, and infrastructure reliability.
 
-- 🎓 **Education:** BSc (Honours) in Information and Communication Technology at the **University of Colombo**.
-- 💡 **Specializing In:** CI/CD Automation, Linux System Administration, and Cloud Security.
-- 🎯 **Aspirations:** To excel as a **System Administrator** while integrating robust **DevOps expertise**.
+- 🎓 **Education:** Currently pursuing a Honours in Information and Communication Technology at the **University of Colombo**.
+- 💡 **Passionate About:** Learning CI/CD automation, Linux system fundamentals, and essential cloud computing.
+
 
 ---
 
-## 🧠 Core Skills & Technologies
+## 🧠 Skills & Technologies
 
-A streamlined list using icon badges for visual clarity.
+I am actively practicing and building projects using the following technologies:
 
 ### ☁️ Cloud & Infrastructure
 <p align="left">
@@ -50,17 +50,11 @@ A streamlined list using icon badges for visual clarity.
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
 </p>
 
-### 💻 Development & Databases
-<p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-</p>
-
 ---
 
-## 🏆 Certifications
+## 🏆 Validated Knowledge (Certifications)
+
+These certifications validate my fundamental understanding of core concepts:
 
 | Certification | Focus Area | Provider |
 | :--- | :--- | :--- |
@@ -68,7 +62,7 @@ A streamlined list using icon badges for visual clarity.
 | **AWS Cloud Practitioner Essentials** | Cloud Computing | Amazon Web Services |
 | **Introduction to Linux (LFS101)** | System Administration | Linux Foundation |
 | **Introduction to Jenkins (LFS167)** | CI/CD | Linux Foundation |
-| **Networking Basics (NET101)** | Networking | Cisco |
+| **Networking Basics (NET101)** | Networking Fundamentals | Cisco |
 
 ---
 
