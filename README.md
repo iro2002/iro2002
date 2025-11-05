@@ -1,98 +1,100 @@
 <div align="center">
+    
+# 👋 Chamindu Irosh
+### Cloud | Linux | DevOps Engineer (Enthusiast)
 
-# 👋 Hi, I'm Chamindu Irosh
-
-### Cloud | Linux | DevOps Enthusiast
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChaminduIrosh)
-[![Email Badge](https://img.shields.io/badge/Email-Your_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Status Badge](https://img.shields.io/badge/Status-Actively%20Learning-339933?style=flat-square)](https://github.com/ChaminduIrosh)
+[![Goal Badge](https://img.shields.io/badge/Goal-DevOps%20Expert-0077B5?style=flat-square)]()
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 Professional Focus & Education
 
-- 🎓 Currently pursuing a **BSc (Honours) in Information and Communication Technology** at the **University of Colombo**.
-- 💡 Passionate about building **reliable infrastructure** and streamlining **development workflows** through automation.
-- 🚀 Goal: To become a skilled **System Administrator** with strong **DevOps expertise**.
-- 🌐 Interested in **Cloud Infrastructure**, **CI/CD**, Monitoring, and Cloud Security.
+I am a highly motivated technology enthusiast dedicated to **DevOps principles** and **Cloud Infrastructure**. My focus is on automating workflows, securing systems, and building reliable infrastructure.
+
+- 🎓 **Education:** BSc (Honours) in Information and Communication Technology at the **University of Colombo**.
+- 💡 **Specializing In:** CI/CD Automation, Linux System Administration, and Cloud Security.
+- 🎯 **Aspirations:** To excel as a **System Administrator** while integrating robust **DevOps expertise**.
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Core Skills & Technologies
 
-#### ☁️ Cloud Platforms
-<p>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+A streamlined list using icon badges for visual clarity.
+
+### ☁️ Cloud & Infrastructure
+<p align="left">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/>
+    <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server Badge"/>
+    <img src="https://img.shields.io/badge/Active%20Directory-0072C6?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Active Directory Badge"/>
 </p>
 
-#### 🖥️ System Administration
-<p>
-  <a href="https://ubuntu.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2021.svg" alt="Windows Server" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Active_Directory_logo.svg" alt="Active Directory" width="40" height="40"/></a>
+### ⚙️ CI/CD & Automation
+<p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
 </p>
 
-#### ⚙️ CI/CD & Version Control
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/></a>
+### 🐳 Containerization & Monitoring
+<p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
 </p>
 
-#### 🐳 Containerization & Orchestration
-<p>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-</p>
-
-#### 📊 Monitoring & Networking
-<p>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
-  <a href="https://www.cisco.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="40" height="40"/></a>
-</p>
-
-#### 💻 Development Tools
-<p>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+### 💻 Development & Databases
+<p align="left">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 </p>
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Provider |
-| :--- | :--- |
-| **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft |
-| **AWS Cloud Practitioner Essentials (CLF-C01)** | Amazon Web Services |
-| **Introduction to Linux (LFS101)** | Linux Foundation |
-| **Introduction to Jenkins (LFS167)** | Linux Foundation |
-| **Networking Basics (NET101)** | Cisco |
+| Certification | Focus Area | Provider |
+| :--- | :--- | :--- |
+| **Azure Fundamentals (AZ-900)** | Cloud Computing | Microsoft |
+| **AWS Cloud Practitioner Essentials** | Cloud Computing | Amazon Web Services |
+| **Introduction to Linux (LFS101)** | System Administration | Linux Foundation |
+| **Introduction to Jenkins (LFS167)** | CI/CD | Linux Foundation |
+| **Networking Basics (NET101)** | Networking | Cisco |
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Activity
 
 <div align="center">
 
-[![Chamindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaminduIrosh&show_icons=true&theme=buefy&count_private=true)](https://github.com/ChaminduIrosh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaminduIrosh&layout=compact&theme=buefy)](https://github.com/ChaminduIrosh)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChaminduIrosh&theme=buefy)](https://github.com/ChaminduIrosh)
+[![Chamindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaminduIrosh&show_icons=true&theme=dracula&count_private=true)](https://github.com/ChaminduIrosh)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChaminduIrosh&theme=dracula)](https://github.com/ChaminduIrosh)
 
 </div>
 
 ---
+
+<div align="center">
+    
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ChaminduIrosh)
+[![CV Download](https://img.shields.io/badge/Download-CV-2C3E50?style=for-the-badge&logo=googledrive)](https://yourcvdownloadlink.com) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+</div>
+
+***
 
 <p align="center">
   <i>“Automate the process, simplify the workflow, and scale with confidence.”</i>
